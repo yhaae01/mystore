@@ -10,8 +10,9 @@ MyStore merupakan aplikasi E-Commerce sederhana untuk toko anda. Di bangun mengg
 # Cara Penggunaan
 
 1. Buat database
-2. Lakukan perintah `php artisan key:generate`
-3. Lakukan perintah `php artisan migrate`
+2. Lakukan perintah `composer install`
+3. Lakukan perintah `php artisan key:generate`
+4. Lakukan perintah `php artisan migrate`
 
 # Beberapa Masalah Yang Muncul
 
